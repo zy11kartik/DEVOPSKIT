@@ -33,7 +33,7 @@ To use this Docker image, you need to have the following installed on your syste
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/devops-tools-docker.git
+git clone https://github.com/zy11kartik/DEVOPSKIT.git
 cd devops-tools-docker
 Step 2: Build the Docker Image
 To build the Docker image from the Dockerfile, run the following command:
